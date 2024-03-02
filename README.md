@@ -19,13 +19,6 @@ These instructions will get your copy of the project up and running on your loca
 Prerequisites
 .NET 6 SDK
 Visual Studio 2019 or later with the ASP.NET and web development workload installed
-Installing
-Clone the repository
-
-
-git clone https://yourrepository.com/yourproject.git
-Navigate to the project directory
-
 
 cd yourproject
 Restore NuGet packages
